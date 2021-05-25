@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, eu sou o Rodrigo Teixeira! Bem vindo ao meu GitHub 👋 
 
-||Desenvolvedor Java Full Junior||
+||Desenvolvedor Java Full Júnior||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)](https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)
